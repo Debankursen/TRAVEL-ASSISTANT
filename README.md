@@ -80,7 +80,6 @@ solution. This could include academic papers on travel related demand prediction
 machine learning algorithms, and best practices in data preprocessing and model 
 evaluation.
 Link: 
-https://cdn.botpress.cloud/webchat/v2.5/shareable.html?configUrl=https://files.bpco
-ntent.cloud/2025/05/12/09/20250512091402-V4QKMPU4.json
+https://cdn.botpress.cloud/webchat/v2.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/12/09/20250512091402-V4QKMPU4.json
 
 # THANKYOU
