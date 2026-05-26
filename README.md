@@ -61,3 +61,26 @@ to provide timely and accurate updates.
 a. Dialogue Management: The chatbot manages the conversation flow, using a structured approach to ensure a smooth and natural user experience. 
 b. Response Generation :Based on the user's query, the chatbot generates appropriate responses using NLP techniques and retrieved information from the 
 database or external sources.
+
+# CONCLUSION
+Summarize the findings and discuss the effectiveness of the proposed solution. 
+Highlight any challenges encountered during the implementation and potential 
+improvements. Emphasize the importance of accurate travel assistance for ensuring 
+the customer can travel easily.
+
+# FUTURE SCOPE
+Discuss potential enhancements and expansions for the system. This could include 
+incorporating additional data sources for travel related, optimizing the algorithm for 
+better performance, Consider the integration of emerging technologies such as edge 
+computing or advanced ai.
+
+# REFERENCES
+Research papers, and Travel related articles that was in developing the proposed 
+solution. This could include academic papers on travel related demand prediction, 
+machine learning algorithms, and best practices in data preprocessing and model 
+evaluation.
+Link: 
+https://cdn.botpress.cloud/webchat/v2.5/shareable.html?configUrl=https://files.bpco
+ntent.cloud/2025/05/12/09/20250512091402-V4QKMPU4.json
+
+# THANKYOU
